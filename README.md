@@ -5,7 +5,7 @@
  
  ####  Welcome my    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    profile!
  
- <div align="center"><h2>🧑 Career</h2>
+ <div align="center"><h2>🔥 Career</h2>
      
   🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing ) 
 
