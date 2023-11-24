@@ -9,9 +9,11 @@
      
   🏫 Dankook Univ. Software Engineering '19 ( 2019.03 ~ ing ) 
 
+  🫡 ROKSF(Republic of Korea Special Force) 대한민국 특전사 제9공수특전여단 🪂 공수847기 병장 만기전역  (2020.08 ~ 2022. 02 ) 
+
   💡 DKU SW학과 학생회 기획부 부원/자문부 차장 ( 2022.03 ~ 2023.02 / 2023.03 ~2024.02 )
 
-  📚 DKU 송영상교수님 하, Flutter Project -sns부서 개발팀장 (2022.05 ~ 2022.09)
+  📚 DKU 송영상교수님 하, Flutter Project -sns부서 개발팀장 ( 2022.05 ~ 2022.09 )
 
   ☂️ Ubee Project(공유우산대여 플랫폼) 창업 공동기획자 및 프론트개발자 ( 2022.09 ~ 2023.03 )
 
