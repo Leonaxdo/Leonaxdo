@@ -54,16 +54,7 @@
         <li>선배와의 대화/면담 진행</li>
         <li>교내 축제 주점 기획 및 운영</li>
         <li>신입생을 위한 멘토멘티 기획 및 멘토로 활동</li><br>
-    
-   </div>
-    <div align=left>
-        👨🏻‍🎓 소프트웨어학과 멘토멘티 프로그램 운영 사이트 백엔드 개발 ( 2023.04 ~ 2023.06 ) <br><br>
-        소프트웨어 융합대학 전체 멘토멘티 관리 사이트 백앤드 개발<br><br>
-        <li>백앤드 개발 : Spring Boot</li>
-        <li>데이터베이스 : Mysql</li>
-        <li>클라우드 : Amazon EC2</li><br>
-        <li><a href=https://github.com/gutanbug/mentoring-private>멘토멘티 백엔드 레포지토리</li><br>
-        <li>운영서버 : <a href=http://sw-mentoring.site/>sw-mentoring.site</li><br><br><br>
+     <br><br>
     </div>
     <div align=left>
         📚 DKU 송영상교수님 하, Flutter Project -sns부서 개발팀장 (2022.05 ~ 2022.09)<br><br>
