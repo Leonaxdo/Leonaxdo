@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Leonaxdo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
  
- ####  Welcome my <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> profile!
+ ####  Welcome my    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    profile!
  
  <div align="center"><h2>🧑 Career</h2>
      
