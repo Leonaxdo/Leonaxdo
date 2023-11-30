@@ -1,8 +1,10 @@
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Leonaxdo&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35)
- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
- 
+<div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=waving&fontAlignY=30&descAlignY=50&text=Leo%20Space&desc=Github%20of%20Leonaxdo&height=300&color=0404b4&fontColor=bfb1ab&animation=fadeIn&fontAlignY=35)
+
+</div>
+
+
  ####  Welcome my    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    profile!
 <div align=right>
 
