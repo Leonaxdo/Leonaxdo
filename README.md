@@ -67,7 +67,7 @@
         <li>데이터베이스 : Firebase Store</li>
         <li>클라우드 : Firebase</li>
         <li>기타 : Android Studio</li><br>
-        <li><a href=https://github.com/leonaxdo/flutter-project>Next flutter project 레포지토리</li><br><br>
+        <li><a href=[https://github.com/leonaxdo/flutter-project](https://github.com/2022-DKUS-Summer-Study)>Next flutter project 레포지토리</li><br><br>
     </div>
     <div align=left>
         ☂️ Ubee Project(공유우산대여 플랫폼) 창업 공동기획자 및 앱개발자<br><br>
