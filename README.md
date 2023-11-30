@@ -5,7 +5,7 @@
 </div>
 
 
- ####  Welcome my    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    profile!
+
 <div align=right>
 
 #### conenct me with <a href="mailto:leo970623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 
   📱 DKU 모바일시스템연구실 학부연구생 ( 2023.03 ~ 2023.08 )
 
-  📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 기획자 및 프론트개발 ( 2023.09 ~ )
+  📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 팀장, 기획 및 개발(앱) ( 2023.09 ~ )
   
  </div>
 
@@ -86,7 +86,7 @@
         <li><a href=https://github.com/Leonaxdo/ubee_capstone.git> app 개발</li><br><br>
     </div>
     <div align=left>
-        📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 기획자 및 프론트개발 ( 2023.09 ~ )<br><br>
+        📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 팀장,기획 및 개발(앱) ( 2023.09 ~ )<br><br>
         PSST 중 Solution을 이미지 AI 분석으로 고정해서 생활에서 갖고있는 Problem을 해결하는 APP 개발하기<br><br>
         -> 이미지 기반 향수 추천 어플리케이션
         <li>앱 개발 : Flutter</li>
