@@ -76,7 +76,7 @@
         <li>데이터베이스 : Firebase/li>
         <li>클라우드 : Firebase</li>
         <li>기타 : Android Studio </li><br>
-        <li><a href=https://github.com/leonaxdo/Ubee_project> app 개발</li><br><br>
+        <li><a href=https://github.com/Leonaxdo/ubee_capstone> app 개발</li><br><br>
     </div>
     <div align=left>
         📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 기획자 및 프론트개발 ( 2023.09 ~ )<br><br>
