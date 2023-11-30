@@ -86,10 +86,10 @@
         <li>데이터베이스 : MySQL/li>
         <li>클라우드 : AWS cloudservice</li>
         <li>기타 : VSCode,AndroidStudio </li><br>
-        <li><a href=https://github.com/sixpiecegarlicbread/dev_frontend> app 개발 현황</li><br><br>
+        <li><a href=https://github.com/SixPieceGarlicBread/byulha-frontend> app 개발 현황</li><br><br>
         <li><a href=https://ember-bluebell-522.notion.site/dd3ff22289104073bedf99f3f8d486b0> 기획 및 팀프로젝트 현황</li><br><br>
     </div>
-
+https://github.com/SixPieceGarlicBread/byulha-frontend
     
 </div>
 
