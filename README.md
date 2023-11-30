@@ -6,8 +6,7 @@
  ####  Welcome my    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>    profile!
 <div align=right>
 
-#### conenct me with
-<a href="mailto:leo970623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+#### conenct me with <a href="mailto:leo970623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 #### click ⬆
 </div>
  
