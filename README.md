@@ -34,15 +34,15 @@
     <h2>📚 Tech Stack 📚</h2>
     <p>✨ Platforms & Languages ✨</p>
 </div>
- 
+<div align=center>
 <h3> 💡Main💡 </h3>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-
+</div>
+<div align=center>
  <h3> 📖Used at least once📖 </h3>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -53,10 +53,11 @@
 <img src="https://img.shields.io/badge/Tibero-ffffff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA/0lEQVR4AWNABrLMrAoKLKwqyFiGmUWegRjAzcjE81Ba5c9TaZX/yHipsNQOogywZud0QmhE4AJeoVqiDAApxGaADTunM1EGLBGW2o6u+ZGM6n9uh7KHDE41DzCwXckVFANOSCg8uCat9PmGnNZ/GF6vZvufwbsXO7bIPIDpDAWbHJAkUVjDpxPTAGEVRwZFuwIwtim6gKFJJ2gqXJ5XQht/oNiXXsMwgJ1XnIEowMLBx+Dd/Q9ZMzjgiAYiqs4YthvFrSLeABXnSgwDlBxKiDfAJHEDhgFCijbEG+DS8BxFs2fXHwZmNi7iNHMKyKLbDo5SooGkXghm/IfOxKUcAJN3wXKHOJQYAAAAAElFTkSuQmCC&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+</div>
 
 
  
-<div>
+<div align=center >
 <h2>🪧 Career Ex 🪧</h2>
     <div align=left>
         💡 DKU SW학과 학생회 기획부 부원/자문부 차장 ( 2022.03 ~ 2023.02 / 2023.03 ~2024.02 )<br><br>
