@@ -87,7 +87,7 @@
         <li><a href=https://github.com/Leonaxdo/ubee_capstone.git> app 개발</li><br><br>
     </div>
     <div align=left>
-        📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 팀장,기획 및 개발(앱) ( 2023.09 ~ )<br><br>
+        📈 TABA 4기 이미지 AI 분석 프로젝트 총괄 팀장 / 4조 팀장,기획 및 개발(앱) ( 2023.09 ~ 2023.12)<br><br>
         PSST 중 Solution을 이미지 AI 분석으로 고정해서 생활에서 갖고있는 Problem을 해결하는 APP 개발하기<br><br>
         -> 이미지 기반 향수 추천 어플리케이션
         <li>앱 개발 : Flutter</li>
@@ -95,6 +95,17 @@
         <li>클라우드 : AWS cloudservice</li>
         <li>기타 : VSCode,AndroidStudio </li><br>
         <li><a href=https://github.com/Leonaxdo/byulha-frontend-new> app 개발 현황</li><br><br>
+    </div>
+	<div align=left>
+        📈 사이드 프로젝트: 초개인화 맞춤형 향수추천 플랫폼 / 팀장,기획 및 개발(앱) ( 2023.12 ~ 2024)<br><br>
+        향수의 분위기 및 사용자들의 리뷰를 기반으로 맞춤형 향수를 추천해주는 플랫폼<br><br>
+        -> 큐레이션 및 리뷰 기반 향수 추천 플랫폼(웹앱)
+        <li>앱 개발 : Flutter(예정)</li>
+        <li>웹 개발 : 미정/li>
+        <li>데이터베이스 : 미정</li>
+	<li>클라우드 : 미정</li>
+        <li>기타 :  </li><br>
+        <li><a href=https://github.com/Leonaxdo/byulha-frontend-new> </li><br><br>
     </div>
 
 
